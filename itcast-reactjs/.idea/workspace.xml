@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb622aa3-d78b-43cf-bd5c-3e9be0d58597" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1h0WfVlSCfLx1V2H35g1Vy69gAf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itcast-haoke-web" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="C:\code\soft\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\coding\haozufang\itcast-reactjs\src" />
+      <recent name="C:\code\coding\haozufang\itcast-reactjs\src\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\code\coding\haozufang\itcast-haoke-manage-web\src\pages\haoke\House" />
+      <recent name="C:\code\coding\haozufang\itcast-reactjs\src\pages\models" />
+      <recent name="C:\code\coding\haozufang\itcast-reactjs\src\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../ant-design-pro-master/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../itcast-haoke-manage-web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../itcast-haoke-web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../ant-design-pro-master/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start (2)" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb622aa3-d78b-43cf-bd5c-3e9be0d58597" name="Default Changelist" comment="" />
+      <created>1599148593363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599148593363</updated>
+      <workItem from="1599148594695" duration="2486000" />
+      <workItem from="1599402155526" duration="6257000" />
+      <workItem from="1599572664681" duration="3881000" />
+      <workItem from="1599660958493" duration="7075000" />
+      <workItem from="1599746595414" duration="3491000" />
+      <workItem from="1599750838676" duration="3616000" />
+      <workItem from="1599983420593" duration="3965000" />
+      <workItem from="1600607989994" duration="3609000" />
+      <workItem from="1601391767823" duration="1104000" />
+      <workItem from="1603107902853" duration="653000" />
+      <workItem from="1603117979765" duration="248000" />
+      <workItem from="1603200863258" duration="1586000" />
+      <workItem from="1603535622308" duration="2064000" />
+      <workItem from="1603618337464" duration="1702000" />
+      <workItem from="1603718277858" duration="4594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1603535654519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603535654519" />
+    <state width="1894" height="163" key="GridCell.Tab.0.bottom" timestamp="1603724974351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="163" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603724974351" />
+    <state width="1894" height="163" key="GridCell.Tab.0.center" timestamp="1603724974351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="163" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603724974351" />
+    <state width="1894" height="163" key="GridCell.Tab.0.left" timestamp="1603724974351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="163" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603724974351" />
+    <state width="1894" height="163" key="GridCell.Tab.0.right" timestamp="1603724974351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1894" height="163" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603724974351" />
+    <state x="330" y="75" key="SettingsEditor" timestamp="1599150057772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="75" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599150057772" />
+  </component>
+</project>

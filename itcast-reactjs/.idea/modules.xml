@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../itcast-haoke-manage-web/.idea/itcast-haoke-manage-web.iml" filepath="$PROJECT_DIR$/../itcast-haoke-manage-web/.idea/itcast-haoke-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itcast-haoke-web/.idea/itcast-haoke-web.iml" filepath="$PROJECT_DIR$/../itcast-haoke-web/.idea/itcast-haoke-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/itcast-reactjs.iml" filepath="$PROJECT_DIR$/.idea/itcast-reactjs.iml" />
+    </modules>
+  </component>
+</project>

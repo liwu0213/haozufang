@@ -1,0 +1,19 @@
+schema {
+    query: UserQuery
+}
+
+type UserQuery {
+   user(id:Long): UserType
+}
+
+type UserType {
+    id:Long!
+    name:String
+    age:Int
+    card:CardType
+}
+
+type CardType {
+    cardNumber:String
+    userId:Long
+}

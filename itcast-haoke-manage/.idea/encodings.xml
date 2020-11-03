@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-api-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/dubbo-server-ad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/dubbo-server-ad/dubbo-server-ad-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/dubbo-server-ad/dubbo-server-ad-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/dubbo-server-house-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/dubbo-server-house-resources/house-resources-dubbo-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-dubbo-server/dubbo-server-house-resources/house-resources-dubbo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-haoke-manage-framework-common" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

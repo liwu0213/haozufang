@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6df9fa8-1d68-49a9-8106-dbe982dbcb63" name="Default Changelist" comment="" />
+    <list default="true" id="e6df9fa8-1d68-49a9-8106-dbe982dbcb63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itcast-haoke-web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../itcast-haoke-web/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JsFlowSettings">
@@ -86,6 +90,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hb21E3cIjlEBIZjonzcF7EC68P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DataGrid.QuickDoc.View" value="transposed" />
     <property name="DatabaseDriversLRU" value="mysql" />
@@ -99,7 +104,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.4330422" />
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -233,12 +238,27 @@
       <workItem from="1603530995876" duration="7341000" />
       <workItem from="1603590020878" duration="11962000" />
       <workItem from="1603717379560" duration="5359000" />
-      <workItem from="1604406485339" duration="2232000" />
+      <workItem from="1604406485339" duration="2233000" />
+      <workItem from="1604494346005" duration="316000" />
+      <workItem from="1604494687321" duration="640000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
